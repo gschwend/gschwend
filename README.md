@@ -7,12 +7,12 @@
 - ⚡ Fun fact: learning piano as an adult
 
 <div align="center">
-  <a href="https://github.com/juliagschwend">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliagschwend&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliagschwend&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gschwend">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschwend&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschwend&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-![Snake animation](https://github.com/juliagschwend/juliagschwend/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/juliagschwend/gschwend/blob/output/github-contribution-grid-snake.svg) 
 
   
   
