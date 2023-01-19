@@ -8,6 +8,13 @@
 
 If you are looking for code, most of my work is open source and belongs to [LIneA's organization](https://github.com/linea-it) here on GitHub. 😉
 
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gschwend&show_icons=true&theme=dark&hide_border=true" > <!--width="-54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gschwend&layout=compact&theme=dark&hide_border=true" width="45.25%"> --> 
+</div>
+
+
 <!--
 <div align="center">
   <a href="https://github.com/gschwend">
