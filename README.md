@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: learning piano as an adult
 
-If you are looking for code, most of my work is open source and belongs to [LIneA's organization](https://github.com/linea-it) here on GitHub. 😉
+If you are looking for code, most of my work is open source and is available on [LIneA's organization](https://github.com/linea-it). 😉
 
 
 <div align="center">
