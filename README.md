@@ -10,7 +10,7 @@ If you are looking for code, most of my work is open source and is available on 
 
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gschwend&show_icons=true&theme=dark&hide_border=true" > <!--width="-54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gschwend&show_icons=true&theme=dark&hide_border=true&count_private=true"> <!--width="-54.25%">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gschwend&layout=compact&theme=dark&hide_border=true" width="45.25%"> --> 
 </div>
 
