@@ -1,7 +1,7 @@
 ### Hi there! 👋
-### I am Julia Gschwend, a data scientist with Physics and Astronomy background who works with software development focused on big data analysis tools for astronomers.
+### I am Julia Gschwend, a data scientist with a Physics and Astronomy background who works with software development focused on big data analysis tools for astronomers.
 
-- 🔭 I’m currently working as software lead at [LIneA](http://linea.org.br), and Program Manager of the Brazilian in-kind contribution program in [LSST](https://www.lsst.org/). 
+- 🔭 I’m currently working as software lead at [LIneA](http://linea.org.br), and as Program Manager of the Brazilian in-kind contribution program in [LSST](https://www.lsst.org/). 
 - 📫 How to reach me: [julia@linea.org.br](mailto:julia@linea.org.br)   
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: learning piano as an adult
